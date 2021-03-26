@@ -1,0 +1,20 @@
+Order Number 1
+Customer: Keegan Bagnall
+Email: keeganbagnall@gmail.com
+Phone Number: 07 5004874
+Location: Cape Town
+ 
+You have ordered the following from Papa Keegz in Cape Town:
+
+2 x Chicken (R100.00)
+
+Special instructions: none
+
+Total:R200.00
+ 
+Miranda Metcalfe is nearest to the restaurant and so he will be delivering your order at: 
+ 
+45 Amadina Road
+Cape Town
+
+If you need to contact the restaurantm their number is 082 565 1498
